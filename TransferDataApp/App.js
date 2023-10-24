@@ -10,7 +10,7 @@ const App = () => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': 'cee3bd1e22msheedb98e87dec740p196316jsn6d22f5917037',
+        'X-RapidAPI-Key': 'key',
         'X-RapidAPI-Host': 'quotes-by-api-ninjas.p.rapidapi.com'
       }
     };
